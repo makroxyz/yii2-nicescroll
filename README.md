@@ -47,10 +47,10 @@ Once the extension is installed, simply use it in your code by  :
     ],
 
 ]);
-```php
+
 some contents your want to rendered by nicescroll......
 
 
-```php
+
 \guzuomuse\nicescroll\NiceScroll::end();
 
